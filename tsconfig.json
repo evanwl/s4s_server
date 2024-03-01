@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "nodenext",
+      "esModuleInterop": true,
+      "target": "es6",
+      "moduleResolution": "node16",
+      "sourceMap": true,
+      "outDir": "build",
+      "allowSyntheticDefaultImports": true,
+    },
+    "lib": ["es2015"]
+  }
+  
